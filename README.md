@@ -27,4 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [1304-longest-happy-string](https://github.com/amrtx7/leetcode-practice/tree/master/1304-longest-happy-string) |
+## String
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/amrtx7/leetcode-practice/tree/master/1304-longest-happy-string) |
+## Greedy
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/amrtx7/leetcode-practice/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
