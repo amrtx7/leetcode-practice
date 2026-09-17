@@ -1,37 +1,44 @@
 class Solution {
+    class Pair{
+        char ch;
+        int f;
+        Pair(char ch, int f){
+            this.ch = ch;
+            this.f = f;
+        }
+    }
     public String longestDiverseString(int a, int b, int c) {
-        // Priority queue to store the characters and their counts.
-        PriorityQueue<int[]> pq = new PriorityQueue<>((x, y) -> y[0] - x[0]);
-        if (a > 0) pq.offer(new int[]{a, 'a'});
-        if (b > 0) pq.offer(new int[]{b, 'b'});
-        if (c > 0) pq.offer(new int[]{c, 'c'});
-
-        StringBuilder result = new StringBuilder();
-
-        while (!pq.isEmpty()) {
-            int[] first = pq.poll();
-
-            // Check if last two characters are the same.
-            if (result.length() >= 2 && result.charAt(result.length() - 1) == first[1] &&
-                result.charAt(result.length() - 2) == first[1]) {
-
-                if (pq.isEmpty()) break;  // No more valid characters.
-
-                // Pick the second character.
-                int[] second = pq.poll();
-                result.append((char) second[1]);
-                second[0]--;
-
-                if (second[0] > 0) pq.offer(second);
-                pq.offer(first);
-            } else {
-                result.append((char) first[1]);
-                first[0]--;
-
-                if (first[0] > 0) pq.offer(first);
+        PriorityQueue<Pair> pq = new PriorityQueue<>(
+            (ax,bx)->{
+                return bx.f - ax.f;
+            }
+        );
+        if(a>0) pq.add(new Pair('a',a));
+        if(b>0) pq.add(new Pair('b',b));
+        if(c>0) pq.add(new Pair('c',c));
+        String res = "";
+        int i=0;
+        while(!pq.isEmpty()){
+            Pair first = pq.poll();
+            if(i>=2 && (res.charAt(i-1)==first.ch && res.charAt(i-2)==first.ch)){
+                // we cannt add
+                if(pq.isEmpty()) break;
+                Pair second = pq.poll();
+                pq.add(first);
+                res += second.ch;
+                second.f--;
+                i++;
+                if(second.f>0) pq.add(second);
+            }
+            else{
+                // we can add
+                res += first.ch;
+                first.f--;
+                i++;
+                if(first.f>0) pq.add(first);
             }
         }
-
-        return result.toString();
+        return res;
     }
+
 }
