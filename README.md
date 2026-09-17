@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/amrtx7/leetcode-practice/tree/master/1304-longest-happy-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
