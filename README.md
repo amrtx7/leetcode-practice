@@ -64,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amrtx7/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amrtx7/leetcode-practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amrtx7/leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
