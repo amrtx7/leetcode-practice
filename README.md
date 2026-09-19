@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/amrtx7/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/amrtx7/leetcode-practice/tree/master/0461-hamming-distance) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/amrtx7/leetcode-practice/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/amrtx7/leetcode-practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/amrtx7/leetcode-practice/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/amrtx7/leetcode-practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
