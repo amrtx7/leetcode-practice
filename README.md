@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +99,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amrtx7/leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
