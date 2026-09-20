@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/amrtx7/leetcode-practice/tree/master/1304-longest-happy-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/amrtx7/leetcode-practice/tree/master/0191-number-of-1-bits) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
