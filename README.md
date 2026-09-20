@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/amrtx7/leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
