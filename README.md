@@ -44,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/amrtx7/leetcode-practice/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/amrtx7/leetcode-practice/tree/master/0112-path-sum) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/amrtx7/leetcode-practice/tree/master/0866-rectangle-overlap) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/amrtx7/leetcode-practice/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/amrtx7/leetcode-practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
