@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/amrtx7/leetcode-practice/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/amrtx7/leetcode-practice/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/amrtx7/leetcode-practice/tree/master/1013-fibonacci-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amrtx7/leetcode-practice/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
