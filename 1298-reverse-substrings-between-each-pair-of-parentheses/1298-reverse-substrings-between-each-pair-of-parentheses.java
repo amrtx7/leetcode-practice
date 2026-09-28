@@ -18,8 +18,7 @@ class Solution {
             char ch = s.charAt(i);
             if(ch == '(') st.push(i);
             else if(ch==')'){
-                reverseStr(chstr, st.peek()+1, i-1);
-                st.pop();
+                reverseStr(chstr, st.pop()+1, i-1);
             }
         }
         StringBuilder sb = new StringBuilder();
