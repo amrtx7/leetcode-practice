@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/amrtx7/leetcode-practice/tree/master/1304-longest-happy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/amrtx7/leetcode-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/amrtx7/leetcode-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -158,4 +162,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
