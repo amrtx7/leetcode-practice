@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amrtx7/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1304-longest-happy-string](https://github.com/amrtx7/leetcode-practice/tree/master/1304-longest-happy-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/1072-next-greater-node-in-linked-list) |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amrtx7/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amrtx7/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
