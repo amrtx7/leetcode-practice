@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amrtx7/leetcode-practice/tree/master/0078-subsets) |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 | [1072-next-greater-node-in-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/1072-next-greater-node-in-linked-list) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amrtx7/leetcode-practice/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/amrtx7/leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/amrtx7/leetcode-practice/tree/master/0461-hamming-distance) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/amrtx7/leetcode-practice/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/amrtx7/leetcode-practice/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
