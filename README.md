@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amrtx7/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/amrtx7/leetcode-practice/tree/master/0258-add-digits) |
 | [0866-rectangle-overlap](https://github.com/amrtx7/leetcode-practice/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/amrtx7/leetcode-practice/tree/master/1013-fibonacci-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amrtx7/leetcode-practice/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/amrtx7/leetcode-practice/tree/master/0258-add-digits) |
 | [3811-reverse-degree-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/amrtx7/leetcode-practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
