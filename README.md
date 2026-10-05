@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 | [1072-next-greater-node-in-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/1072-next-greater-node-in-linked-list) |
+| [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/amrtx7/leetcode-practice/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amrtx7/leetcode-practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
