@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amrtx7/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amrtx7/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amrtx7/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/amrtx7/leetcode-practice/tree/master/1304-longest-happy-string) |
 ## Depth-First Search
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amrtx7/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1072-next-greater-node-in-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amrtx7/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/amrtx7/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amrtx7/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
