@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/amrtx7/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amrtx7/leetcode-practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/amrtx7/leetcode-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/amrtx7/leetcode-practice/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/amrtx7/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/amrtx7/leetcode-practice/tree/master/0461-hamming-distance) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/amrtx7/leetcode-practice/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/amrtx7/leetcode-practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amrtx7/leetcode-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/amrtx7/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/amrtx7/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amrtx7/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/amrtx7/leetcode-practice/tree/master/0404-sum-of-left-leaves) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/amrtx7/leetcode-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/amrtx7/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/amrtx7/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amrtx7/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/amrtx7/leetcode-practice/tree/master/0404-sum-of-left-leaves) |
