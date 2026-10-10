@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/amrtx7/leetcode-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
+| [1035-cousins-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/1035-cousins-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1035-cousins-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/1035-cousins-in-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
