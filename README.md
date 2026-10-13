@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/amrtx7/leetcode-practice/tree/master/0258-add-digits) |
 | [0866-rectangle-overlap](https://github.com/amrtx7/leetcode-practice/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/amrtx7/leetcode-practice/tree/master/1013-fibonacci-number) |
+| [2083-three-divisors](https://github.com/amrtx7/leetcode-practice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amrtx7/leetcode-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/amrtx7/leetcode-practice/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/amrtx7/leetcode-practice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## DP on Trees
 |  |
@@ -261,4 +263,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/amrtx7/leetcode-practice/tree/master/2083-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/amrtx7/leetcode-practice/tree/master/2083-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/amrtx7/leetcode-practice/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
