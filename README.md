@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/amrtx7/leetcode-practice/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/amrtx7/leetcode-practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/amrtx7/leetcode-practice/tree/master/0258-add-digits) |
 | [0866-rectangle-overlap](https://github.com/amrtx7/leetcode-practice/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/amrtx7/leetcode-practice/tree/master/1013-fibonacci-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amrtx7/leetcode-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/amrtx7/leetcode-practice/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## DP on Trees
 |  |
 | ------- |
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/amrtx7/leetcode-practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
