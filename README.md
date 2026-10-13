@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/amrtx7/leetcode-practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/amrtx7/leetcode-practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/amrtx7/leetcode-practice/tree/master/2083-three-divisors) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/amrtx7/leetcode-practice/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Prime Factorization
 |  |
 | ------- |
