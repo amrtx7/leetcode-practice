@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/amrtx7/leetcode-practice/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/amrtx7/leetcode-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/amrtx7/leetcode-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amrtx7/leetcode-practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
@@ -281,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/amrtx7/leetcode-practice/tree/master/2083-three-divisors) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/amrtx7/leetcode-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/amrtx7/leetcode-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
