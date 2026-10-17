@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amrtx7/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -291,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/amrtx7/leetcode-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
