@@ -30,14 +30,12 @@ class Trie {
     
     public boolean startsWith(String prefix) {
         Node temp = root;
-        int cnt = 0;
         for(char ch:prefix.toCharArray()){
             int i = ch-'a';
             if(temp.children[i]==null) return false;
-            cnt++;
             temp = temp.children[i];
         }
-        return cnt == prefix.length();
+        return true;
     }
 }
 
