@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 | [1072-next-greater-node-in-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
+| [1682-most-visited-sector-in-a-circular-track](https://github.com/amrtx7/leetcode-practice/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1813-maximum-erasure-value](https://github.com/amrtx7/leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/amrtx7/leetcode-practice/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/amrtx7/leetcode-practice/tree/master/0258-add-digits) |
+| [1682-most-visited-sector-in-a-circular-track](https://github.com/amrtx7/leetcode-practice/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [3811-reverse-degree-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
