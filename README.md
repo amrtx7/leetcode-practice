@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
+| [0860-design-circular-queue](https://github.com/amrtx7/leetcode-practice/tree/master/0860-design-circular-queue) |
 | [1072-next-greater-node-in-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/amrtx7/leetcode-practice/tree/master/1682-most-visited-sector-in-a-circular-track) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/amrtx7/leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0860-design-circular-queue](https://github.com/amrtx7/leetcode-practice/tree/master/0860-design-circular-queue) |
 | [1072-next-greater-node-in-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -305,8 +307,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0860-design-circular-queue](https://github.com/amrtx7/leetcode-practice/tree/master/0860-design-circular-queue) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/amrtx7/leetcode-practice/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
