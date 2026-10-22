@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/amrtx7/leetcode-practice/tree/master/0290-word-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amrtx7/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amrtx7/leetcode-practice/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/amrtx7/leetcode-practice/tree/master/0290-word-pattern) |
 | [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1813-maximum-erasure-value](https://github.com/amrtx7/leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
