@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/amrtx7/leetcode-practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/amrtx7/leetcode-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/amrtx7/leetcode-practice/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/amrtx7/leetcode-practice/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/1035-cousins-in-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/amrtx7/leetcode-practice/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
 | [1035-cousins-in-binary-tree](https://github.com/amrtx7/leetcode-practice/tree/master/1035-cousins-in-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/amrtx7/leetcode-practice/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amrtx7/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/amrtx7/leetcode-practice/tree/master/0733-flood-fill) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/amrtx7/leetcode-practice/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -326,4 +330,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amrtx7/leetcode-practice/tree/master/0200-number-of-islands) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/amrtx7/leetcode-practice/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
