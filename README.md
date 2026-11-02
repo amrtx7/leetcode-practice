@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/amrtx7/leetcode-practice/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/amrtx7/leetcode-practice/tree/master/0290-word-pattern) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/amrtx7/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/amrtx7/leetcode-practice/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amrtx7/leetcode-practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amrtx7/leetcode-practice/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amrtx7/leetcode-practice/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/amrtx7/leetcode-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/amrtx7/leetcode-practice/tree/master/0113-path-sum-ii) |
