@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/amrtx7/leetcode-practice/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/amrtx7/leetcode-practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/amrtx7/leetcode-practice/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/amrtx7/leetcode-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/amrtx7/leetcode-practice/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
