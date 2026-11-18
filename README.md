@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/amrtx7/leetcode-practice/tree/master/0860-design-circular-queue) |
 | [1072-next-greater-node-in-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amrtx7/leetcode-practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/amrtx7/leetcode-practice/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1813-maximum-erasure-value](https://github.com/amrtx7/leetcode-practice/tree/master/1813-maximum-erasure-value) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amrtx7/leetcode-practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/amrtx7/leetcode-practice/tree/master/0222-count-complete-tree-nodes) |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amrtx7/leetcode-practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amrtx7/leetcode-practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/amrtx7/leetcode-practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/amrtx7/leetcode-practice/tree/master/0658-find-k-closest-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/amrtx7/leetcode-practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/amrtx7/leetcode-practice/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/amrtx7/leetcode-practice/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
