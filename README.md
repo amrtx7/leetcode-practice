@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/amrtx7/leetcode-practice/tree/master/0860-design-circular-queue) |
 | [1072-next-greater-node-in-linked-list](https://github.com/amrtx7/leetcode-practice/tree/master/1072-next-greater-node-in-linked-list) |
 | [1256-rank-transform-of-an-array](https://github.com/amrtx7/leetcode-practice/tree/master/1256-rank-transform-of-an-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/amrtx7/leetcode-practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amrtx7/leetcode-practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/amrtx7/leetcode-practice/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1813-maximum-erasure-value](https://github.com/amrtx7/leetcode-practice/tree/master/1813-maximum-erasure-value) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/amrtx7/leetcode-practice/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/amrtx7/leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amrtx7/leetcode-practice/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/amrtx7/leetcode-practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2083-three-divisors](https://github.com/amrtx7/leetcode-practice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amrtx7/leetcode-practice/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/amrtx7/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0860-design-circular-queue](https://github.com/amrtx7/leetcode-practice/tree/master/0860-design-circular-queue) |
+| [1477-product-of-the-last-k-numbers](https://github.com/amrtx7/leetcode-practice/tree/master/1477-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -349,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/amrtx7/leetcode-practice/tree/master/0200-number-of-islands) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/amrtx7/leetcode-practice/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/amrtx7/leetcode-practice/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/amrtx7/leetcode-practice/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
