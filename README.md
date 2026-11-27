@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/amrtx7/leetcode-practice/tree/master/1477-product-of-the-last-k-numbers) |
 | [2083-three-divisors](https://github.com/amrtx7/leetcode-practice/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/amrtx7/leetcode-practice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3625-stone-removal-game](https://github.com/amrtx7/leetcode-practice/tree/master/3625-stone-removal-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/amrtx7/leetcode-practice/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amrtx7/leetcode-practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/amrtx7/leetcode-practice/tree/master/0258-add-digits) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/amrtx7/leetcode-practice/tree/master/1682-most-visited-sector-in-a-circular-track) |
+| [3625-stone-removal-game](https://github.com/amrtx7/leetcode-practice/tree/master/3625-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/amrtx7/leetcode-practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
